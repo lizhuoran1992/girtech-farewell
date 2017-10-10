@@ -3,4 +3,4 @@ John made this reveal.js project to share all wonderful memories with GIR Tech t
 
 Website: http://www.girtech.sg
 
-Powered by Spring Boot and reveal.js
+Powered by Spring Boot (GIR Tech's favorite library) and reveal.js
